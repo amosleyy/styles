@@ -3,6 +3,13 @@ body {
   background-color: #00CED1;
 }
 
+div.review {
+    background-color: #E6EBF5; /* pale blue */
+    border: 1px solid #003399; /* dark blue */
+  }
+  p.summary {
+  	font-style: italic;
+  }
 #alert {
     color: black;
     font-weight: bold;
