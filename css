@@ -17,7 +17,16 @@ div.review {
     border: 2px solid black;
     padding: 1em;
   }
+    a {
+	  color: red;
+	  text-decoration: underline;
+  }
 
+nav a {
+	  color: white;
+	  background-color: #003399; /* dark blue */
+	  text-decoration: none;
+  }
 div {
   margin-top: 15px;
 }
