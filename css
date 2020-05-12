@@ -1,11 +1,11 @@
 body {
   text-align: center;
-  background-color: #00CED1;
+  background-color: #afeeee;
 }
 
-div.review {
-    background-color: #E6EBF5; /* pale blue */
-    border: 1px solid #003399; /* dark blue */
+    body{
+    background-color: #afeeee; /* pale blue */
+    border: 1px solid;#0000A0; /* dark blue */
   }
   p.summary {
   	font-style: italic;
