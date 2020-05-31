@@ -17,15 +17,14 @@ body {
     border: 2px solid black;
     padding: 1em;
   }
-    a {
-	  color: red;
-	  text-decoration: underline;
+     a {
+    color: black;
+    background-color: white;
   }
-
-nav a {
-	  color: white;
-	  background-color: #003399; /* dark blue */
-	  text-decoration: none;
+  a:hover, a:focus {
+    color: white;
+    background-color: black;
+  
   }
 div {
   margin-top: 15px;
